@@ -13,3 +13,6 @@ Projeyi cloneladıktan sonra vsc programında açınız
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## License
+[Patika.dev](https://www.patika.dev/tr)
+
+
